@@ -14,3 +14,8 @@ This is where I log what I'm learning each week: notes, lab work and small proje
 - Configured Git with a private noreply email to keep my real address off public commits
 - Generated an ed25519 SSH key pair and used it to authenticate with GitHub
 - Learned basic Linux commands: whoami, pwd, ls, cd, mkdir
+
+### Week 2
+- Built an SSH brute-force detector in Python (parses auth logs, flags compromised accounts)
+- Built a phishing awareness simulator (local training tool: generates emails, tracks clicks, reports results)
+- Learned about false positives, detection thresholds, tracking tokens, and keeping personal data out of version control with .gitignore
