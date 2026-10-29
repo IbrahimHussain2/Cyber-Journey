@@ -19,3 +19,4 @@ This is where I log what I'm learning each week: notes, lab work and small proje
 - Built an SSH brute-force detector in Python (parses auth logs, flags compromised accounts)
 - Built a phishing awareness simulator (local training tool: generates emails, tracks clicks, reports results)
 - Learned about false positives, detection thresholds, tracking tokens, and keeping personal data out of version control with .gitignore
+- Completed the Mastercard Cybersecurity Virtual Experience Programme (scored 90%): identified phishing threats, interpreted a simulated campaign's results, and designed awareness training for the at-risk teams
