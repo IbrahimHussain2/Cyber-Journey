@@ -29,3 +29,9 @@ This is where I log what I'm learning each week: notes, lab work and small proje
 - Ran an nmap scan and found an exposed HTTP service on the firewall
 - Documented the whole project with evidence: github.com/IbrahimHussain2/network-security-lab
 - Learned: default-deny, rule ordering, IDS vs IPS, defence in depth, attack surface
+
+### Week 4
+- Completed the HPE Software Engineering Virtual Experience
+- Designed and built a RESTful web service in Java Spring Boot to manage employee data (GET and POST)
+- Wrote JUnit unit tests and proposed a private cloud architecture using HPE GreenLake
+- Learned: REST API design, separation of concerns, and unit testing
