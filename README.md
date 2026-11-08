@@ -37,8 +37,6 @@ This is where I log what I'm learning each week: notes, lab work and small proje
 - Learned: REST API design, separation of concerns, and unit testing
 
 ### Week 5
-Week 5
-
 * Built a password breach checker in Python that checks if a password has appeared in a known data breach
 * Used the Have I Been Pwned API with k-anonymity: only the first 5 characters of the password's SHA-1 hash are ever sent, so the password and full hash never leave the machine
 * Added a request timeout and error handling that exits with code 1, so a failed API call errors out instead of falsely reporting "not found"
